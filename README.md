@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF2/#/](https://ecored-sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF2/#/)
+[https://ecored-sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF1/#/](https://ecored-sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF1/#/)
 
 #
 
