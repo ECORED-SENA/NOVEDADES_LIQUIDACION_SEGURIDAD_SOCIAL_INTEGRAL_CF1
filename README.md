@@ -1,8 +1,8 @@
-# **sena-base-2021 v5.0.1**
+# **Novedades liquidación seguridad social**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF1/](sena.github.io/NOVEDADES_LIQUIDACION_SEGURIDAD_SOCIAL_INTEGRAL_CF1/)
 
 #
 
