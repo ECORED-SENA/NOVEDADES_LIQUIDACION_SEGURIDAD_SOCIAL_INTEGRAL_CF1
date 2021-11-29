@@ -58,10 +58,10 @@
             figure
               img(src='@/assets/curso/tema1/t1_05.svg', alt='', style="width:1200px;").m-auto            
 
-          .tarjeta.color-acento-contenido.p-4(x="23%" y="30%" numero="1")          
+          .tarjeta.color-acento-contenido.p-4(x="23%" y="30%" numero="2")          
             p.txt--sistema.mb-0 Un salario como retribución del servicio.
 
-          .tarjeta.color-acento-contenido.p-4(x="47%" y="57%" numero="2")          
+          .tarjeta.color-acento-contenido.p-4(x="47%" y="57%" numero="1")          
             p.txt--sistema.mb-0 La actividad personal del trabajador.
 
           .tarjeta.color-acento-contenido.p-4(x="80%" y="35%" numero="3")          

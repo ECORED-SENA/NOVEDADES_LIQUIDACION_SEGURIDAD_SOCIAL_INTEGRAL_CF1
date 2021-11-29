@@ -232,7 +232,7 @@
 
     p.mb-5 Para mayor información y ampliar conocimientos en la norma que respecta al Sistema General de Riesgos Laborales, puede consultar la siguiente recurso: 
         
-    h4.text-center.mb-5 Normatividad Vigente para el Sistema General de Seguridad Social en Salud
+    h4.text-center.mb-5 Normatividad Vigente para el Sistema General de Riesgos Laborales
 
     .row
       .col-lg-8.order-2.order-lg-1

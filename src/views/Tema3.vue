@@ -33,7 +33,7 @@
           figure.mb-4
             img(src="@/assets/curso/warpLines_01.svg", alt="alt", style="width:55px;")
           .cajon.cajon--amarillo
-            p.mb-0 Como es de saber, este tipo de contratación también genera unas obligaciones a las partes, aquí, el contratante deberá verificar la afiliación y pago de los aportes correspondientes que realice el contratista independiente, que deberá ser en todos los casos sobre el 40% del valor mensualizado del contrato, de la misma manera deberá verificar el pago a la ARL según lo explicado anteriormente, de no hacerlo, el contratante deberá pagar los dineros faltantes por los aportes dejados de cotizar o cotizados en indebida forma por el contratista.
+            p.mb-0 Por otra parte, los aportes que no se consignen dentro de los plazos señalados para el efecto, generarán un interés moratorio a cargo del empleador, igual al que rige para el impuesto sobre la renta y complementarios (Art. 23). En consecuencia, las entidades administradoras de los diferentes regímenes serán las encargadas de adelantar las acciones de cobro con motivo del incumplimiento de las obligaciones del empleador de conformidad con la reglamentación que expida el Gobierno Nacional (Art. 24). 
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-3.mb-4.mb-lg-0
@@ -120,7 +120,7 @@
                   img(src='@/assets/curso/tema3/t3_11.png', alt='', style="width:500px;")                 
             .row
               .col-lg-7
-                h4 Prima de servicios
+                h4 Auxilio de cesantías 
                 p.mb-0 Este beneficio tiene como fin brindarle al trabajador un medio de subsistencia a la terminación del contrato de trabajo. 
                   br
                   br
