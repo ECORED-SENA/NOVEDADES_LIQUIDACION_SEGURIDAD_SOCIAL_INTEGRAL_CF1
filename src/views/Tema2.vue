@@ -84,7 +84,7 @@
 
     .bg_purple_01.mb-5
       .row.justify-content-center        
-        h4.text-white.text-center.pt-5.mb-5 La afiliación al sistema general de pensiones será:
+        h4.text-white.text-center.pt-5.mb-5 La afiliación al Sistema General de Pensiones será:
         .col-lg-6.px-4
           .row.align-items-end.mb-5
             .col-auto
