@@ -86,13 +86,13 @@
     .cp.mb-5
       .waves.d-none.d-lg-block
       .cp_title 
-        h4.purpleTitle Obligaciones para la afiliación al sistema de seguridad social            
+        h4.purpleTitle Obligaciones para la afiliación al Sistema de Seguridad Social            
         p.mb-0 En lo que respecta a las obligaciones especiales del empleador en relación con la afiliación de seguridad social integral de los trabajadores, se encuentran las siguientes: 
 
     .row.mb-5
       .col-lg-6.mb-4.mb-lg-0
         LineaTiempoD.color-primario
-          p.text-small(numero="1" titulo="Seguridad social") Todo empleador debe inscribir a sus trabajadores al sistema de seguridad social integral, independientemente de la forma de remuneración y realizar los pagos correspondientes a los sistemas.
+          p.text-small(numero="1" titulo="Seguridad social") Todo empleador debe inscribir a sus trabajadores al Sistema de Seguridad Social integral, independientemente de la forma de remuneración y realizar los pagos correspondientes a los sistemas.
 
           p.text-small(numero="2" titulo="Pensiones") La contribución a cualquiera del régimen de prima media con prestación definida o el de Ahorro Individual es del 16 % del salario mensual del empleado, del cual al empleador le corresponde el 12% y al trabajador el 4%. Esa cotización aumenta en la medida en que el trabajador devengue un salario igual o superior a 4 salarios mínimos mensuales legales.
           
@@ -168,7 +168,7 @@
                 p.mb-0 Es una licencia remunerada, la cual busca que la madre tenga un descanso adecuado durante los días previos al parto y posteriores a él. 
                   br
                   br
-                  | Toda trabajadora en estado de embarazo tiene derecho a una licencia de 14 semanas, la cual puede comenzar 2 semanas antes de la fecha prevista para el parto. Esta licencia es remunerada por el sistema general de seguridad social en salud. Existen reglas especiales para partos prematuros y embarazos múltiples.
+                  | Toda trabajadora en estado de embarazo tiene derecho a una licencia de 14 semanas, la cual puede comenzar 2 semanas antes de la fecha prevista para el parto. Esta licencia es remunerada por el Sistema General de Seguridad Social en Salud. Existen reglas especiales para partos prematuros y embarazos múltiples.
                   br
                   br
                   | Es importante resaltar que ninguna trabajadora puede ser despedida por motivo de embarazo o lactancia. En caso de existir justa causa, esta deberá ser previamente calificada por el inspector de trabajo, de no ser así incurrirá en sanciones e indemnizará a la trabajadora por valor de 60 días de salario.      
@@ -178,7 +178,7 @@
             .row
               .col-lg-7
                 h4 Licencia de paternidad
-                p.mb-0 El esposo o compañero permanente tendrá derecho a 8 días hábiles de licencia remunerada de paternidad. Esta licencia es remunerada por el sistema general de seguridad social en salud.     
+                p.mb-0 El esposo o compañero permanente tendrá derecho a 8 días hábiles de licencia remunerada de paternidad. Esta licencia es remunerada por el Sistema General de Seguridad Social en Salud.     
               .col-lg-5
                 figure
                   img(src='@/assets/curso/tema3/t3_18.png', alt='', style="width:500px;")                 

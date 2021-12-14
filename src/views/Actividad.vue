@@ -11,8 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Normas y conceptos del Sistema de Seguridad Social. 
-        p.mb-4 El objetivo de esta actividad es ayudar a identificar algunas entidades, contribuciones, normas y leyes que articulan el sistema de seguridad social, mediante la relación de términos que son clave y que fueron vistos en este componente formativo.
-        p Se sugiere que antes de realizar esta actividad, haga la consulta y el estudio de los materiales formativos.
+        p.mb-4 El objetivo de esta actividad es ayudar a identificar algunas entidades, contribuciones, normas y leyes que articulan el Sistema de Seguridad Social, mediante la relación de términos que son clave y que fueron vistos en este componente formativo.        
 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
@@ -31,8 +30,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Repasando conceptos claves para la contratación
-        p.mb-4 Repasar los conocimientos adquiridos en este componente formativo, mediante la organización de palabras que permitan estructurar los conceptos vistos en este componente. Conceptos que se deben conocer al momento de contratar según lo mencionado en el Código Sustantivo del Trabajo, para la afiliación al sistema de seguridad social integral. 
-        p Se sugiere que antes de realizar esta actividad, haga la consulta y el estudio de los materiales formativos.
+        p.mb-4 Repasar los conocimientos adquiridos en este componente formativo, mediante la organización de palabras que permitan estructurar los conceptos vistos en este componente. Conceptos que se deben conocer al momento de contratar según lo mencionado en el Código Sustantivo del Trabajo, para la afiliación al Sistema de Seguridad Social Integral.       
 
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            

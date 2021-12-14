@@ -16,7 +16,7 @@
             img(src="@/assets/curso/tema2/t2_01.svg", alt="alt").m-auto
         .col-lg-8
           .bloque-texto-a__texto.p-4
-            p.mb-0 El Sistema de Seguridad Social Integral vigente en Colombia, fue establecido por la Ley 100 de 1993 y establece que es el conjunto de instituciones, normas y procedimientos, de que disponen la persona y la comunidad para gozar de una calidad de vida, mediante el cumplimiento progresivo de los planes y programas que el Estado y la sociedad desarrollen para proporcionar la cobertura integral de las contingencias, especialmente las que menoscaban la salud y la capacidad económica, de los habitantes del territorio nacional, con el fin de lograr el bienestar individual y la integración de la comunidad. Se puede ver a continuación:
+            p.mb-0 El Sistema de Seguridad Social Integral vigente en Colombia, fue establecido por la Ley 100 de 1993 y establece que es el conjunto de instituciones, normas y procedimientos, de los que disponen la persona y la comunidad para gozar de una calidad de vida, mediante el cumplimiento progresivo de los planes y programas que el Estado y la sociedad desarrollen para proporcionar la cobertura integral de las contingencias, especialmente las que menoscaban la salud y la capacidad económica, de los habitantes del territorio nacional, con el fin de lograr el bienestar individual y la integración de la comunidad. Se puede ver a continuación:
 
     .bg_waves_03.pb-5
       .row.justify-content-center.mb-5
@@ -84,7 +84,7 @@
 
     .bg_purple_01.mb-5
       .row.justify-content-center        
-        h4.text-white.text-center.pt-5.mb-5 La afiliación al sistema de general de pensiones será:
+        h4.text-white.text-center.pt-5.mb-5 La afiliación al sistema general de pensiones será:
         .col-lg-6.px-4
           .row.align-items-end.mb-5
             .col-auto
@@ -224,11 +224,11 @@
         .cp_title            
           p.mb-0 Su financiación proviene de la cotización obligatoria, determinada por el nivel de ingreso y la clasificación del riesgo. Las Administradoras de Riesgos Profesionales (ARL) son las entidades responsables de la afiliación, el registro y el recaudo de sus cotizaciones. 
 
-      p.mb-5 Ahora, se debe observar y escuchar la siguiente información, en la que se detallan las prestaciones otorgadas por el sistema general de riesgos laborales:
+      p.mb-5 Ahora, se debe observar y escuchar la siguiente información, en la que se detallan las prestaciones otorgadas por el Sistema General de Riesgos Laborales:
 
       figure.mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/JfVXdVKKllM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)          
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/FEAvgOgNGKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                 
 
     p.mb-5 Para mayor información y ampliar conocimientos en la norma que respecta al Sistema General de Riesgos Laborales, puede consultar la siguiente recurso: 
         
@@ -259,7 +259,7 @@
 
           .tarjeta.clr-paleYellow.p-4(titulo="Resoluciones")
             h4 Resoluciones
-            p Resolución 3310 de 2018 - Por la cual se adopta el Formulario Único de Afiliación y Reporte de Novedades al sistema general de riesgos laborales y dictan otras disposiciones.
+            p Resolución 3310 de 2018 - Por la cual se adopta el Formulario Único de Afiliación y Reporte de Novedades al Sistema General de Riesgos Laborales y dictan otras disposiciones.
               br
               br
               | Resolución 2389 de 2019 - Por la cual se definen los lineamientos generales para la operación del Sistema General de Riesgos Laborales-SGRL en el Sistema de Afiliación Transaccional – SAT y se adopta el formulario de afiliación y traslado del empleador al Sistema General de Riesgos Laborales.
@@ -307,7 +307,7 @@
                 div
                   .figure.mb-4
                     img(src='@/assets/curso/tema2/t2_18.svg', style="width:190px")
-                  h4.text-center.mb-4 Beneficios Económicos Periódocos (BEPS)
+                  h4.text-center.mb-4 Beneficios Económicos Periódicos (BEPS)
                   p.text-center.mb-0.text-small Es un programa de ahorro voluntario para la vejez, que favorece a los colombianos que hoy no cuentan con la posibilidad de cotizar para una pensión, o que, habiendo hecho, cumplieron la edad y no lograron obtenerla. Estos consisten en un ahorro durante la etapa laboral que será disfrutado en la vejez como una forma de ingreso. Este ahorro es voluntario, flexible en su monto y periodicidad, lo cual permite una mayor cobertura.
 
 </template>
