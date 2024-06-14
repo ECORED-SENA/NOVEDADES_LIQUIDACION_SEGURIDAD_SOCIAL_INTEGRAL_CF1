@@ -168,7 +168,7 @@
                 p.mb-0 Es una licencia remunerada, la cual busca que la madre tenga un descanso adecuado durante los días previos al parto y posteriores a él. 
                   br
                   br
-                  | Toda trabajadora en estado de embarazo tiene derecho a una licencia de 14 semanas, la cual puede comenzar 2 semanas antes de la fecha prevista para el parto. Esta licencia es remunerada por el Sistema General de Seguridad Social en Salud. Existen reglas especiales para partos prematuros y embarazos múltiples.
+                  | Toda trabajadora en estado de embarazo tiene derecho a una licencia de 18 semanas, la cual puede comenzar 2 semanas antes de la fecha prevista para el parto. Esta licencia es remunerada por el Sistema General de Seguridad Social en Salud. Existen reglas especiales para partos prematuros y embarazos múltiples.
                   br
                   br
                   | Es importante resaltar que ninguna trabajadora puede ser despedida por motivo de embarazo o lactancia. En caso de existir justa causa, esta deberá ser previamente calificada por el inspector de trabajo, de no ser así incurrirá en sanciones e indemnizará a la trabajadora por valor de 60 días de salario.      
